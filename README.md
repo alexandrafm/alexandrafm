@@ -2,6 +2,10 @@
 
 🚀 **Frontend Developer** passionate about creating modern, sleek user interfaces and experiences.
 
+## Languages and Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrafm&layout=compact)
+
 ## 📫 Get in touch:
 - 📧 alexandra.techwork@gmail.com
 - 🌐 [Portfolio](https://alexandra-monteiro-portfolio.vercel.app/)
