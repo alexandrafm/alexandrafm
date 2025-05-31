@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 <span style="color:#A77224; font-weight: 700; font-size: 2.5rem;">Hello!</span> I'm Alexandra
+
+🚀 **Frontend Developer** passionate about creating modern, sleek user interfaces and experiences.
+
+## 📫 Get in touch:
+- 📧 alexandra.techwork@gmail.com
+- 🌐 [Portfolio](https://alexandra-monteiro-portfolio.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandrafmonteiro/)
+
 
 <!--
 **alexandrafm/alexandrafm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
