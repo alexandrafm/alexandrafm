@@ -4,10 +4,10 @@
 
 ## 🛠️ Technologies I work with:
 - React
-- Tailwind CSS
 - JavaScript (ES6+)
-- HTML & CSS
 - TypeScript
+- HTML & CSS
+- Tailwind CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrafm&layout=compact)
 
