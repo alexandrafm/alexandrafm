@@ -2,7 +2,12 @@
 
 🚀 **Frontend Developer** passionate about creating modern, sleek user interfaces and experiences.
 
-## Languages and Tools
+## 🛠️ Technologies I work with:
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML & CSS
+- TypeScript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrafm&layout=compact)
 
